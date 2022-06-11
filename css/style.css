@@ -263,3 +263,15 @@ a:hover {
 .py {
 	width: 50%;
 }
+
+.git {
+	width: 60%;
+}
+
+.card a {
+	color: rgba(0,172,193,1);
+}
+
+.card a:hover {
+	color: rgb(0, 139, 157);
+}
